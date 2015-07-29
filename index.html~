@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>	Sexy Man</title>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<link href="styles/style.css" rel="stylesheet" type="text/css"></link>
+
+</head>
+<body>
+	<h1>Oh, Brad Pitt is so sexy!</h1>
+	<img src="images/BradPitt.jpg"  alt="Brad Pitt">
+	<ul>
+		<li>sexy!</li>
+		<li>sexy!</li>
+		<li>sexy!</li>
+		<li>sexy!</li>
+		<li>sexy!</li>
+	</ul>
+	<p>Please click this link to read <a href="http://movie.douban.com/celebrity/1054452/">MORE ABOUT BRAD PITT</a></p>
+	<script src="scripts/main.js"></script>
+</body>
+</html>
